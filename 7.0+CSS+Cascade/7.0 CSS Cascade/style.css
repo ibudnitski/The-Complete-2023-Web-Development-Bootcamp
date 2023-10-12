@@ -10,3 +10,24 @@ p {
   margin: 0;
   padding: 0;
 }
+
+.white-text {
+  color: white;
+}
+
+.inner-box {
+  background-color: red;
+}
+
+.inner-box,
+.outer-box {
+  padding: 10px;
+}
+
+p {
+  color: yellow;
+}
+
+#outer-box {
+  background-color: purple;
+}
