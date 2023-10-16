@@ -5,6 +5,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 95vh;
+  background-color: lightseagreen;
 }
 .main {
   flex: 1;
@@ -18,4 +19,3 @@ footer {
   text-align: right;
   color: midnightblue;
 }
-
